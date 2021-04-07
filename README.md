@@ -1,5 +1,6 @@
 # VK_Network_Science_Project
 
+Descriptive analysis for a social ego-network
 
 ## Network Summery
 
