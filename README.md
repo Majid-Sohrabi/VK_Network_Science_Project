@@ -4,7 +4,7 @@ Descriptive analysis for a social ego-network
 
 ## Network Summery
 
-[notebook](VK_Project_1_Summery.ipynb)
+[Notebook](VK_Project_1_Summery.ipynb)
 
 * Network Source and preprocessing
 * Node/Edge attributes
@@ -17,7 +17,7 @@ Descriptive analysis for a social ego-network
 
 ## Strubtural Analysis
 
-[notebook](VK_Project_2_Structure.ipynb)
+[Notebook](VK_Project_2_Structure.ipynb)
 
 * The closest random graph model similar to your social network (compare at least three models from lectures, such as ER, BA, WS). Check three real-world network properties on chosen random graph models and your ego-network, compare the results
 * Degree/Closeness/Betweenness centralities (optional: Katz, Bonacich)
@@ -28,7 +28,7 @@ Descriptive analysis for a social ego-network
 
 ## Community Detection
 
-[notebook](VK_Project_3_Community_Detection.ipynb)
+[Notebook](VK_Project_3_Community_Detection.ipynb)
 
 * Clique search, k-cores visualization and interpretation
 * Best results of various community detection algorithms, both in terms of interpretation and some quality criterion (modularity, silhouette, ground truth partition)
